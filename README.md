@@ -2,7 +2,7 @@
 
   ```bash
   $ whoami
-  sec_student | pentest | ctf_player
+  sec_student | analyst | ctf_player
 
   achievements
 
