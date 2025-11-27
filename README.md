@@ -1,16 +1,26 @@
-## Hi there 👋
+# liviu
 
-<!--
-**LiviuMrc/LiviuMrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## about
 
-Here are some ideas to get you started:
+  cybersecurity student focused on offensive security and vulnerability research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ```bash
+  $ whoami
+  sec_student | pentest | ctf_player
+
+  achievements
+
+  [+] 1st - GigaHack Cybersecurity Challenge 2024
+  [+] 1st - Demtech Hackathon 2024
+  [+] 2nd - CyberBattleMoldova CTF 2023
+
+  focus areas
+
+  - web application pentesting
+  - vulnerability research
+  - threat detection
+  - secure software design
+
+  stack
+
+  python bash linux wireshark burp suite splunk siem
