@@ -9,6 +9,6 @@
   [+] 1st - GigaHack Cybersecurity Challenge 2024
   [+] 1st - Demtech Hackathon 2024
   [+] 2nd - CyberBattleMoldova CTF 2023
-  [+] 2nd - FAFxSigmoid Summer Hackathon
+  [+] 2nd - FAFxSigmoid Summer Hackathon 2023
 
 
