@@ -1,4 +1,4 @@
-  cybersecurity student focused on offensive security and vulnerability research.
+  Cybersecurity student focused on offensive security and vulnerability research.
 
   ```bash
   $ whoami
@@ -9,14 +9,6 @@
   [+] 1st - GigaHack Cybersecurity Challenge 2024
   [+] 1st - Demtech Hackathon 2024
   [+] 2nd - CyberBattleMoldova CTF 2023
+  [+] 2nd - FAFxSigmoid Summer Hackathon
 
-  focus areas
 
-  - web application pentesting
-  - vulnerability research
-  - threat detection
-  - secure software design
-
-  stack
-
-  python bash linux wireshark burp suite splunk siem
