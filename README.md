@@ -1,7 +1,3 @@
-# liviu
-
-  ## about
-
   cybersecurity student focused on offensive security and vulnerability research.
 
   ```bash
